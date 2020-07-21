@@ -1,3 +1,9 @@
+.style{
+  color: red;
+  padding: 10px;
+  background-color: indigo;
+}
+
 .App {
   text-align: center;
 }
